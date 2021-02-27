@@ -25,6 +25,7 @@
 ### 📔 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First post](https://shashankbairy.netlify.app/posts/first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
