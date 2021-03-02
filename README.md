@@ -33,6 +33,3 @@
 ### 📊 Stats
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=BA1RY&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[blogbadge]: https://img.shields.io/static/v1?label=MY&message=BLOG&style=for-the-badge&logo=ethereum&color=blue
-[blogurl]: https://blogchain.wtf
