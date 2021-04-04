@@ -11,21 +11,26 @@
 ### ✅ Few PRs I'm proud of
 
 - [netlify/netlify-cms](https://github.com/netlify/netlify-cms)
+
   - [Add filter to collection view](https://github.com/netlify/netlify-cms/pull/3741)
   - [Add hidden property to collections](https://github.com/netlify/netlify-cms/pull/3643)
+
 - [backstage/backstage](https://github.com/backstage/backstage)
+
+  - [Add core feature plugins to microsite](https://github.com/backstage/backstage/pull/5151)
   - [Add 404 page for entity not found](https://github.com/backstage/backstage/pull/2623)
   - [Improve search match](https://github.com/backstage/backstage/pull/3365)
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-  - [Clarify how to create multiple box shadows](https://github.com/freeCodeCamp/freeCodeCamp/pull/35555)
-  - [Add line breaks to frontend](https://github.com/freeCodeCamp/freeCodeCamp/pull/35477)
+
+- [product-ride/styled-wind](https://github.com/product-ride/styled-wind)
+
+  - [Fixed height dynamic property and added updated values for spacing, height and width](https://github.com/product-ride/styled-wind/pull/23)
+  - [Fix error in getBorderRadiusDirection function](https://github.com/product-ride/styled-wind/pull/19)
 
 ---
 
 ### 📔 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [First post](https://shashankbairy.netlify.app/posts/first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
